@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\controllers\\enrollment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\controllers\\enrollment\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\views\\enrollment\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\views\\enrollment\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|c:\\users\\esaameldeen.omasa\\source\\repos\\courseregistiration\\courseregistiration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55A0481-5FE6-4E57-9BB4-BAF6F8CFDC85}|CourseRegistiration\\CourseRegistiration.csproj|solutionrelative:courseregistiration\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Views\\Enrollment\\Register.cshtml",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Views\\Enrollment\\Register.cshtml",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Views\\Enrollment\\Register.cshtml",
+              "RelativeToolTip": "CourseRegistiration\\Views\\Enrollment\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T10:13:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Controllers\\Enrollment\\Enrollment.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Controllers\\Enrollment\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Controllers\\Enrollment\\Enrollment.cs",
+              "RelativeToolTip": "CourseRegistiration\\Controllers\\Enrollment\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:58:58.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "CourseRegistiration\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:25:01.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Enrollment.cs",
+              "RelativeToolTip": "CourseRegistiration\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:20:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Course.cs",
+              "RelativeToolTip": "CourseRegistiration\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:16:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Models\\Student.cs",
+              "RelativeToolTip": "CourseRegistiration\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:14:12.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Program.cs",
+              "RelativeDocumentMoniker": "CourseRegistiration\\Program.cs",
+              "ToolTip": "C:\\Users\\esaameldeen.omasa\\source\\repos\\CourseRegistiration\\CourseRegistiration\\Program.cs",
+              "RelativeToolTip": "CourseRegistiration\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA8AAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:11:32.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
